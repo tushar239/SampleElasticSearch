@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sample.elasticsearch
+Build-Jdk: 1.8.0_91
+Built-By: chokst
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sample.data.elasticsearch.SampleElasticsearchApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.134 sec - in sample.data.elasticsearch.SampleElasticsearchApplicationTests
